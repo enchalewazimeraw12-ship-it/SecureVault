@@ -1,0 +1,9 @@
+node_modules/
+**/node_modules/
+.env
+backend/.env
+backend/uploads/*
+backend/encrypted/*
+backend/localdb.json
+*firebase-adminsdk*.json
+frontend/dist/
